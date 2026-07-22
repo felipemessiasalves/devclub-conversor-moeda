@@ -65,6 +65,6 @@ Este projeto tem fins educacionais. Sinta-se à vontade para utilizá-lo como re
 
 ## 👤 Autor
 
-Desenvolvido por **Felipe Messias Alves**
+Desenvolvido por **Felipe Messias Alves Corrêa**
 
 - GitHub: [@felipemessiasalves](https://github.com/felipemessiasalves)
