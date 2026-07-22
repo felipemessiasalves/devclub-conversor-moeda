@@ -79,9 +79,11 @@ section {
   align-items: center;
 }
 
-.m-real {
+.m-real,
+.currency-img {
   width: 64px;
   height: 64px;
+  filter: drop-shadow(5px 5px 10px rgba(0, 0, 0, 0.5));
 }
 
 .arrow-img {
